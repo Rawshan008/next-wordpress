@@ -1,2 +1,2 @@
-## Backend WordPress and Fontend Next
+## Backend WordPress and Frontend Next
 
